@@ -25,7 +25,7 @@ Atualmente estudando e desenvolvendo projetos web com foco em aplicações moder
 
 ## 📫 Contato
 
-💼 LinkedIn: www.linkedin.com/in/carolina-rodrigues-3a8a78359
+💼 LinkedIn: www.linkedin.com/in/carol-silva
 
 ---
 
