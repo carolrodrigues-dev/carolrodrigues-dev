@@ -1,6 +1,6 @@
 # 👩‍💻 Carolina Rodrigues
 
-## 🚀 Desenvolvedora Front-End / Full Stack em evolução
+## 🚀 Desenvolvedora Front-End / Full Stack em evolução constante
 
 Atualmente estudando e desenvolvendo projetos web com foco em aplicações modernas, responsivas e integração com banco de dados em tempo real.
 
